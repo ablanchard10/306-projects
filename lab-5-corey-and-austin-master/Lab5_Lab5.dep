@@ -1,0 +1,10 @@
+Dependencies for Project 'Lab5', Target 'Lab5': (DO NOT MODIFY !)
+F (.\startup.s)(0x5AA0985E)(--cpu Cortex-M4 --pd "__EVAL SETA 1" -g --apcs=interwork -I "C:\Users\Austin\Desktop\SCHOOL STUFF\Freshman Spring\EE 319K\ARM\RV31\INC"-I "C:\Users\Austin\Desktop\SCHOOL STUFF\Freshman Spring\EE 319K\ARM\CMSIS\Include"-I "C:\Users\Austin\Desktop\SCHOOL STUFF\Freshman Spring\EE 319K\ARM\Inc\Luminary"--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
+F (.\SysTick.c)(0x5AA1C664)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars -I.. -I..\..\..-I "C:\Users\Austin\Desktop\SCHOOL STUFF\Freshman Spring\EE 319K\ARM\RV31\INC"-I "C:\Users\Austin\Desktop\SCHOOL STUFF\Freshman Spring\EE 319K\ARM\CMSIS\Include"-I "C:\Users\Austin\Desktop\SCHOOL STUFF\Freshman Spring\EE 319K\ARM\Inc\Luminary"-Drvmdk -DPART_LM4F120H5QR-o .\systick.o --omf_browse .\systick.crf --depend .\systick.d)
+I (C:\Users\Austin\Desktop\SCHOOL STUFF\Freshman Spring\EE 319K\ARM\ARMCC\include\stdint.h)(0x51C87C24)
+F (.\TableTrafficLight.c)(0x5AA1BE72)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars -I.. -I..\..\..-I "C:\Users\Austin\Desktop\SCHOOL STUFF\Freshman Spring\EE 319K\ARM\RV31\INC"-I "C:\Users\Austin\Desktop\SCHOOL STUFF\Freshman Spring\EE 319K\ARM\CMSIS\Include"-I "C:\Users\Austin\Desktop\SCHOOL STUFF\Freshman Spring\EE 319K\ARM\Inc\Luminary"-Drvmdk -DPART_LM4F120H5QR-o .\tabletrafficlight.o --omf_browse .\tabletrafficlight.crf --depend .\tabletrafficlight.d)
+I (C:\Users\Austin\Desktop\SCHOOL STUFF\Freshman Spring\EE 319K\ARM\ARMCC\include\stdint.h)(0x51C87C24)
+I (tm4c123gh6pm.h)(0x5A9DC716)
+I (SysTick.h)(0x5A9DC716)
+I (TExaS.h)(0x5A9DC716)
+F (.\texas.o)(0x5A9DC716)()
